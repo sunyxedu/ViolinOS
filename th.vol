@@ -1,0 +1,12 @@
+set s input input input ;
+let p input
+if there p s
+	echo there p s
+	echo "True"
+;
+else
+	echo there p s
+	echo "xFalse"
+;
+delvar
+ENDL

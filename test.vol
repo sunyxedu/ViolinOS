@@ -1,0 +1,22 @@
+# A Test Programme #
+let t input
+echo t
+var
+echo "This is t * t:" 
+echo calc t * t = =
+echo _
+let t input
+echo "This is t + t:"
+echo calc t + t ==
+echo _
+let t input
+echo t
+var
+echo "This is t + t:"
+echo calc t * t = =
+echo _
+let t input
+echo "This is t + t:"
+echo calc t + t ==
+echo _
+ENDL

@@ -1,0 +1,21 @@
+if calc input - 2 = echo "Hello!" ;
+else echo "Em?" ;
+# C++ Code:
+?include <bits/stdc++.h>
+using namespace std;
+int main() {
+	int a;
+	cin >> a;
+	if(a - 2 > 0)
+		cout << "Hello!\n";
+	else
+		cout << "Em?\n";
+} 
+Python Code:
+if int(input) - 2 > 0:
+	print("Hello!")
+else:
+	print("Em?") 
+#
+delvar
+ENDL

@@ -1,0 +1,11 @@
+let b input
+echo b
+let a calc b * 2 =
+echo "b * 2 ="
+echo a
+let b input
+let a calc b * b =
+echo "b ^ 2 ="
+echo a
+delvar
+ENDL

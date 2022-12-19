@@ -1,0 +1,9 @@
+echo "请输入股票支数："
+let p input
+echo "每支钱数："
+let l input
+echo "请输入百分数(不用加百分号)："
+let k input
+echo calc p * l * k =
+delvar
+ENDL

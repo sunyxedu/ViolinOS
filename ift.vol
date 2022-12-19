@@ -1,0 +1,19 @@
+delvar
+let i input
+if i
+	output "."
+;
+output "Es:"
+elif calc i + 1 =
+	output "?"
+;
+output "EEs:"
+elif calc i + 2 =
+	output "??"
+;
+output "EEEs:"
+else
+	output "!"
+;
+delvar
+ENDL
